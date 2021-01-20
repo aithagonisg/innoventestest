@@ -1,0 +1,25 @@
+.text{
+    color:#1316a5
+  }
+
+   .wd{
+     width: 450px;
+   }
+  .marginroom{
+      margin-left: 200px;
+  }
+  .marginadult{
+    margin-left: 191px;
+  }
+  .marginchild{
+      margin-left: 175px;
+  }
+  .borders{
+    border-bottom: 1px solid black;
+    height: 50px;
+    text-align: center;
+    
+  }
+  .items{
+    margin-left: 500px;
+  }
